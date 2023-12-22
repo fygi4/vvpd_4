@@ -29,7 +29,14 @@ def syracuse_max (n: int) -> int:
 - [x] Проверка на ввод данных
 - [x] Выход из проги
 #### Рисунок Коллатца
-![Коллатц](https://sun9-67.userapi.com/impg/km7rKxG9H8cGgWsOHMD5LM5nOoKlQi6LgIVKsA/ijNCz124qOk.jpg?size=336x776&quality=96&sign=3c9a51986494f95a0319450cbc45e3e7&type=album)  
+![Коллатц](https://sun9-67.userapi.com/impg/km7rKxG9H8cGgWsOHMD5LM5nOoKlQi6LgIVKsA/ijNCz124qOk.jpg?size=336x776&quality=96&sign=3c9a51986494f95a0319450cbc45e3e7&type=album) 
+
+$C(n)=$
+
+$n/2, если n -  четноe$
+
+$3n+1, если n - нечетное$
+
 Более подробно можно узнать здесь [ТЫКНИ](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D1%82%D1%86%D0%B0)
 ### Фрагмент кода
 ```python
